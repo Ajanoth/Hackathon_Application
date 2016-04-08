@@ -1,0 +1,3 @@
+SOURCES:
+
+https://bugs.openttd.org/task/2604/getfile/3912/heightmap_west_us.png
